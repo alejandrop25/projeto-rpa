@@ -1,0 +1,6 @@
+{
+  "Name": "OpportunitiesExtractor",
+  "ProjectType": "Process",
+  "Description": "Extrai informações do site Report: Opportunities e envia para uma fila no Orchestrator.",
+  "MainFile": "Main.xaml"
+}

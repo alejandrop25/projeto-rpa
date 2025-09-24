@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6iUbKcNoVU-c7zoh70Tr-w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="9c1fe5ba-974c-46c2-b3a5-a060c28b48cf" CvElementArea="664, 753, 25, 25" CvType="RadioButton" DesignTimeRectangle="666, 755, 20, 20" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;label&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='i73' tag='DIV' /&gt;" Guid="2da377b5-f677-4bdb-9cb3-be021c713fb7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9c1fe5ba-974c-46c2-b3a5-a060c28b48cf" CvTextArea="697, 756, 70, 15" CvTextArgument="Em Aberto" CvType="Text" DesignTimeRectangle="698, 754, 68, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Em Aberto' tag='SPAN' type='' class='aDTYNe snByac OvPDhc OIC90c' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Em Aberto' /&gt;" Guid="9b982398-1a3f-4bc1-8740-d82d849dc0e2" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f0ad7afb49c09b282940f6cd878e80a9.png" xmlns="">0rlFZlD372kGimHucyPmCAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Ganha",
+  "Type": "Element",
+  "Id": "adMZ5Or3wkuQHPaSfb7MzQ",
+  "Reference": "PgSqxfffSkKF7R0_UGBz8g/adMZ5Or3wkuQHPaSfb7MzQ",
+  "ParentRef": "PgSqxfffSkKF7R0_UGBz8g/j7BjDrpBTku2WAggN078og",
+  "Created": "2025-09-24T02:10:47.0832726Z",
+  "Updated": "2025-09-24T02:10:47.0832726Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.15.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Qual a moeda da oportun…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "gEeDaMZad0KWrC8RSSs6SA",
+  "Reference": "zhw1o6wDWEqCx13MuZdJvw/gEeDaMZad0KWrC8RSSs6SA",
+  "ParentRef": "zhw1o6wDWEqCx13MuZdJvw/ExygL7yhlUeHZTctluq4pg",
+  "Created": "2025-09-23T13:33:11.4163341Z",
+  "Updated": "2025-09-23T13:33:11.4163341Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

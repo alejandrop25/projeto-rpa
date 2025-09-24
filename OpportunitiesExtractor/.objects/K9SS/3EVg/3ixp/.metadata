@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Continue with UiPath Platform - Opera",
+  "Type": "Screen",
+  "Id": "3ixp_LHphUugQtmqj5BMTg",
+  "Reference": "zhw1o6wDWEqCx13MuZdJvw/3ixp_LHphUugQtmqj5BMTg",
+  "ParentRef": "zhw1o6wDWEqCx13MuZdJvw/3EVgeqo2_kWdHVeJcAMtBQ",
+  "Created": "2025-09-22T02:02:21.0342135Z",
+  "Updated": "2025-09-22T02:02:21.0342135Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7mOmWtaFHUWawxYdADyKJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="e770cab5-8395-463f-9655-6922835c8e01" CvElementArea="662, 453, 301, 34" CvType="InputBox" DesignTimeRectangle="666, 460, 295, 24" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='i26 i29' tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' matching:aria-labelledby='fuzzy' fuzzylevel:aria-labelledby='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="9e80cf06-b6f7-4684-a6a4-71e78f998ab4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e770cab5-8395-463f-9655-6922835c8e01" CvTextArea="664, 409, 136, 18" CvTextArgument="Opportunity Owner" CvType="Text" DesignTimeRectangle="666, 406, 133, 24" FuzzySelectorArgument="&lt;webctrl parentid='i26' tag='SPAN' type='' class='M7eMe' aaname='Opportunity Owner' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Opportunity Owner' /&gt;" Guid="a0b4d377-ecd3-4c54-8685-1a32084aa54a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4c4cf652390d8ec02255515b162a7166.png" xmlns="">0H9rojCRMxEijs1CMRNHU3g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

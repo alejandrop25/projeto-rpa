@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Perdida",
+  "Type": "Element",
+  "Id": "vrQ8AgJgJUWG4kMpS86tdA",
+  "Reference": "PgSqxfffSkKF7R0_UGBz8g/vrQ8AgJgJUWG4kMpS86tdA",
+  "ParentRef": "PgSqxfffSkKF7R0_UGBz8g/j7BjDrpBTku2WAggN078og",
+  "Created": "2025-09-24T02:11:01.1264785Z",
+  "Updated": "2025-09-24T02:11:01.1264785Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.15.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

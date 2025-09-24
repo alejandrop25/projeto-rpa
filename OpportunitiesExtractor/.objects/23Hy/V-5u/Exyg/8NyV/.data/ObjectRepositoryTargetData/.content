@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qzk8ERAgPUG-MySS4Mt0DQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="cc8b4edf-0783-4923-b85a-b46e26a73034" CvElementArea="662, 529, 302, 33" CvType="InputBox" DesignTimeRectangle="666, 536, 295, 24" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='i31 i34' tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' matching:aria-labelledby='fuzzy' fuzzylevel:aria-labelledby='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d33b870a-7e73-480f-a91c-d8b3c649ce9c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cc8b4edf-0783-4923-b85a-b46e26a73034" CvTextArea="665, 459, 112, 15" CvTextArgument="Unit Sales Price" CvType="Text" DesignTimeRectangle="666, 456, 111, 24" FuzzySelectorArgument="&lt;webctrl parentid='i31' tag='SPAN' type='' class='M7eMe' aaname='Unit Sales Price' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Unit Sales Price' /&gt;" Guid="adfa474a-2ed8-42df-82c8-64c215e9e85a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="78ef85e8b476435ca9c2322c9b11c2b5.png" xmlns="">0NShQQ_z-00qFiUDfVjQ2bg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "O valor da oportunidade…",
+  "Type": "Element",
+  "Id": "0jZBScTt3USn5TNRbx_R5A",
+  "Reference": "zhw1o6wDWEqCx13MuZdJvw/0jZBScTt3USn5TNRbx_R5A",
+  "ParentRef": "zhw1o6wDWEqCx13MuZdJvw/ExygL7yhlUeHZTctluq4pg",
+  "Created": "2025-09-23T13:28:06.4069297Z",
+  "Updated": "2025-09-23T13:28:06.4069297Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

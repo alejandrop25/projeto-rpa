@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Enviar",
+  "Type": "Element",
+  "Id": "vLNesLblL0edcccW75dCpA",
+  "Reference": "zhw1o6wDWEqCx13MuZdJvw/vLNesLblL0edcccW75dCpA",
+  "ParentRef": "zhw1o6wDWEqCx13MuZdJvw/ExygL7yhlUeHZTctluq4pg",
+  "Created": "2025-09-23T02:58:22.9372296Z",
+  "Updated": "2025-09-23T02:58:22.9372296Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Continue with UiPath Platform - Opera",
+  "Type": "App",
+  "Id": "K9SSOBK8YE2uIa5QFUT2hw",
+  "Reference": "zhw1o6wDWEqCx13MuZdJvw/K9SSOBK8YE2uIa5QFUT2hw",
+  "Created": "2025-09-22T02:02:20.9756062Z",
+  "Updated": "2025-09-22T02:02:20.9756062Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

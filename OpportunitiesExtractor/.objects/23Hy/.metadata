@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Exercício DEV - UIPATH",
+  "Type": "App",
+  "Id": "23Hy4L7Y6kSrMklT9RbFLw",
+  "Reference": "zhw1o6wDWEqCx13MuZdJvw/23Hy4L7Y6kSrMklT9RbFLw",
+  "Created": "2025-09-23T02:41:35.7405599Z",
+  "Updated": "2025-09-23T02:41:35.7405599Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KEgIB7-zG0qCz0gQC8EyJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="c4a897f8-812c-4eb1-9505-d7ed6d18f5ae" CvElementArea="664, 466, 25, 25" CvType="RadioButton" DesignTimeRectangle="666, 468, 20, 20" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;label&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='i51' tag='DIV' /&gt;" Guid="137f8ee4-79b9-48ad-b0b2-7347cbc59fbe" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c4a897f8-812c-4eb1-9505-d7ed6d18f5ae" CvTextArea="664, 421, 325, 15" CvTextArgument="0 valor da oportunidade é maior que 10.000 ?" CvType="Text" DesignTimeRectangle="666, 418, 323, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='i46' tag='SPAN' type='' class='M7eMe' aaname='O valor da oportunidade é maior que 10.000 ?' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='O valor da oportunidade é maior que 10.000 ?' /&gt;" Guid="c1549bd3-0602-46c0-a6a5-1c4cc187ba0f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bd418dba94ca0b82ca60d7a0133d11af.png" xmlns="">05KRlyMGdYkC3OR5v9jDSSQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

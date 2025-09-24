@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FcTt4XFp4UOGojt5wfxkmA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSe8bucitMAeb-ELVbYmYodNJsgQs5P5wRXHT68lqFx79a6-Qg/viewform" CVScreenId="9c1fe5ba-974c-46c2-b3a5-a060c28b48cf" CvElementArea="639, 820, 92, 39" CvTextArea="663, 832, 44, 14" CvTextArgument="Enviar" CvType="Button" DesignTimeRectangle="641, 822, 89, 36" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' tag='SPAN' /&gt;" Guid="e8b01726-60e8-4bfc-a8a5-2b8815d81f42" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Exercício DEV - UIPATH' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9c1fe5ba-974c-46c2-b3a5-a060c28b48cf" CvElementArea="639, 820, 92, 39" CvTextArea="663, 832, 44, 14" CvTextArgument="Enviar" CvType="Button" DesignTimeRectangle="665, 822, 41, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Enviar' tag='SPAN' type='' class='NPEfkd RveJvd snByac' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Enviar' /&gt;" Guid="ad79e5bd-541b-4498-866b-f6d101ac941b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="897a0398bd4cf4eb50e3df1f931ae347.png" xmlns="">0NSy3X3p30ECWEmsOEiXL0w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

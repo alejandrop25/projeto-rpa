@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click Não",
+  "Type": "Element",
+  "Id": "i9mcnPFvhkejhgSQpOc-rw",
+  "Reference": "PgSqxfffSkKF7R0_UGBz8g/i9mcnPFvhkejhgSQpOc-rw",
+  "ParentRef": "PgSqxfffSkKF7R0_UGBz8g/j7BjDrpBTku2WAggN078og",
+  "Created": "2025-09-24T02:10:06.6042255Z",
+  "Updated": "2025-09-24T02:10:06.6042255Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.15.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

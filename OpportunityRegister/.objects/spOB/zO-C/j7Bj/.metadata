@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open Form",
+  "Type": "Screen",
+  "Id": "j7BjDrpBTku2WAggN078og",
+  "Reference": "PgSqxfffSkKF7R0_UGBz8g/j7BjDrpBTku2WAggN078og",
+  "ParentRef": "PgSqxfffSkKF7R0_UGBz8g/zO-C6cDYqEyhtluGTMKG2g",
+  "Created": "2025-09-24T02:06:42.1882241Z",
+  "Updated": "2025-09-24T02:06:42.1882241Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.15.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

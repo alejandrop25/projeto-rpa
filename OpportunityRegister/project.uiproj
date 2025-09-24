@@ -1,0 +1,6 @@
+{
+  "Name": "OpportunityRegister",
+  "ProjectType": "Process",
+  "Description": "Cadastra dados de uma fila do Orchestrator em um formulário.",
+  "MainFile": "Main.xaml"
+}
